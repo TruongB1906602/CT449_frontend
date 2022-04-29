@@ -7,7 +7,7 @@
              <p>Liên hệ bằng nhiều hình thức</p>
              <ul class="social-icon">
                  <li><a href=""><img src="@/assets/images/facebook.png" alt=""></a></li>
-                 <li><a href=""><img src="@/assets/images/YouTube.png" alt=""></a></li>
+                 <!-- <li><a href=""><img src="@/assets/images/YouTube.png" alt=""></a></li> -->
                  <li><a href=""><img src="@/assets/images/gmail.png" alt=""></a></li>
                  <li><a href=""><img src="@/assets/images/twitter.png" alt=""></a></li>
              </ul>
