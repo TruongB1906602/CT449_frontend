@@ -13,10 +13,11 @@ export default {
 </script>
 
 <template>
+
 	<div id="app">
 		<AppHeader />
 		<Navbar /> 
-	
+	    {{this.$route.query.price}}
 		 <div class="container mt-3">
 		
 			<router-view />
